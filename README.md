@@ -1,24 +1,6 @@
-# README
+# パーフェクト Ruby on Rails 第2章
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+RoRとMVCについて
+- Model層：　ActiveRecordの基本操作・バリデーション・コールバック
+- Controller層：　ModelとViewをつなぐ・リクエストオブジェクトやアクションコールバック
+- View層：　テンプレートエンジン・ヘルパーメソッド・さまざまなフォーマットへの対応（jbuilderなど）
